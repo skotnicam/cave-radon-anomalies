@@ -1,0 +1,8 @@
+# Tested with Python 3.14, torch 2.14, pandas 2.3, numpy 2.5, scikit-learn 1.9, scipy 1.18, matplotlib 3.11.
+# Any recent version should work; CPU-only PyTorch is sufficient.
+numpy
+pandas
+scipy
+scikit-learn
+torch
+matplotlib

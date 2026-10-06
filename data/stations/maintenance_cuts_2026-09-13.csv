@@ -1,0 +1,11 @@
+original_file,removed_start,removed_end,removed_rows,tin_max,radon_min,note
+blativa_part01.csv,2022-07-23T11:26:14+00:00,2022-07-23T14:06:14+00:00,9,20,1520,instrument outside the cave (temperature_indoor >= 13 C) + 2 h recovery
+blativa_part02.csv,2023-04-18T10:03:15+00:00,2023-04-18T18:03:15+00:00,9,21,0,instrument outside the cave (temperature_indoor >= 13 C) + 2 h recovery
+blativa_part02.csv,2024-03-08T19:03:15+00:00,2024-03-08T20:07:42+00:00,3,16,0,instrument outside the cave (temperature_indoor >= 13 C) + 2 h recovery
+kaple_part01a.csv,2023-04-11T12:21:32+00:00,2023-04-11T12:21:32+00:00,1,13,202,instrument outside the cave (temperature_indoor >= 13 C) + 2 h recovery
+kaple_part02a.csv,2023-04-18T10:04:01+00:00,2023-04-18T18:04:01+00:00,9,21,0,instrument outside the cave (temperature_indoor >= 13 C) + 2 h recovery
+loupeznicka_part02a.csv,2023-04-18T10:05:45+00:00,2023-04-18T18:05:45+00:00,9,21,7,instrument outside the cave (temperature_indoor >= 13 C) + 2 h recovery
+peklo_part01.csv,2022-07-26T10:07:53+00:00,2022-07-26T12:47:53+00:00,9,19,1442,instrument outside the cave (temperature_indoor >= 13 C) + 2 h recovery
+prusacka_part02a.csv,2023-04-18T10:04:50+00:00,2023-04-18T18:04:50+00:00,9,21,0,instrument outside the cave (temperature_indoor >= 13 C) + 2 h recovery
+za_prahem_part01a.csv,2022-11-10T12:47:09+00:00,2022-11-10T14:47:09+00:00,7,14,2370,instrument outside the cave (temperature_indoor >= 13 C) + 2 h recovery
+za_prahem_part02a.csv,2023-04-18T10:02:28+00:00,2023-04-18T18:02:28+00:00,9,21,15,instrument outside the cave (temperature_indoor >= 13 C) + 2 h recovery
